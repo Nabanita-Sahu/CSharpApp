@@ -10,7 +10,7 @@ on:
 
 jobs:
   build-and-test:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
 
     steps:
     # Step 1: Checkout repository
@@ -37,4 +37,4 @@ jobs:
 
     # Step 6: Run tests
     - name: Run tests
-      run: dotnet test CalculatorApp.sln --no-build --verbosity normal
+      run: dotnet test CalculatorApp.sln --no-build --verbosity diagnostic
