@@ -1,6 +1,0 @@
-/Users/kunalmaji/Desktop/Code/cs/CSharpApp/tests/CalculatorApp.Tests/obj/Debug/net7.0/CalculatorApp.Tests.csproj.AssemblyReference.cache
-/Users/kunalmaji/Desktop/Code/cs/CSharpApp/tests/CalculatorApp.Tests/obj/Debug/net7.0/CalculatorApp.Tests.GeneratedMSBuildEditorConfig.editorconfig
-/Users/kunalmaji/Desktop/Code/cs/CSharpApp/tests/CalculatorApp.Tests/obj/Debug/net7.0/CalculatorApp.Tests.AssemblyInfoInputs.cache
-/Users/kunalmaji/Desktop/Code/cs/CSharpApp/tests/CalculatorApp.Tests/obj/Debug/net7.0/CalculatorApp.Tests.AssemblyInfo.cs
-/Users/kunalmaji/Desktop/Code/cs/CSharpApp/tests/CalculatorApp.Tests/obj/Debug/net7.0/CalculatorApp.Tests.csproj.CoreCompileInputs.cache
-/Users/kunalmaji/Desktop/Code/cs/CSharpApp/tests/CalculatorApp.Tests/obj/Debug/net7.0/CalculatorApp.Tests.sourcelink.json
