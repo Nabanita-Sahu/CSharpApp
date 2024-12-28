@@ -102,3 +102,4 @@
 /Users/kunalmaji/Desktop/Code/cs/CSharpApp/tests/CalculatorApp.Tests/obj/Debug/net9.0/CalculatorApp.Tests.pdb
 /Users/kunalmaji/Desktop/Code/cs/CSharpApp/tests/CalculatorApp.Tests/obj/Debug/net9.0/CalculatorApp.Tests.genruntimeconfig.cache
 /Users/kunalmaji/Desktop/Code/cs/CSharpApp/tests/CalculatorApp.Tests/obj/Debug/net9.0/ref/CalculatorApp.Tests.dll
+/Users/kunalmaji/Desktop/Code/cs/CSharpApp/tests/CalculatorApp.Tests/obj/Debug/net9.0/CalculatorApp.Tests.sourcelink.json

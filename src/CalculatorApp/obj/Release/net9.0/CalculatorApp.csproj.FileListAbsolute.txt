@@ -1,0 +1,15 @@
+/Users/kunalmaji/Desktop/Code/cs/CSharpApp/src/CalculatorApp/bin/Release/net9.0/CalculatorApp
+/Users/kunalmaji/Desktop/Code/cs/CSharpApp/src/CalculatorApp/bin/Release/net9.0/CalculatorApp.deps.json
+/Users/kunalmaji/Desktop/Code/cs/CSharpApp/src/CalculatorApp/bin/Release/net9.0/CalculatorApp.runtimeconfig.json
+/Users/kunalmaji/Desktop/Code/cs/CSharpApp/src/CalculatorApp/bin/Release/net9.0/CalculatorApp.dll
+/Users/kunalmaji/Desktop/Code/cs/CSharpApp/src/CalculatorApp/bin/Release/net9.0/CalculatorApp.pdb
+/Users/kunalmaji/Desktop/Code/cs/CSharpApp/src/CalculatorApp/obj/Release/net9.0/CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kunalmaji/Desktop/Code/cs/CSharpApp/src/CalculatorApp/obj/Release/net9.0/CalculatorApp.AssemblyInfoInputs.cache
+/Users/kunalmaji/Desktop/Code/cs/CSharpApp/src/CalculatorApp/obj/Release/net9.0/CalculatorApp.AssemblyInfo.cs
+/Users/kunalmaji/Desktop/Code/cs/CSharpApp/src/CalculatorApp/obj/Release/net9.0/CalculatorApp.csproj.CoreCompileInputs.cache
+/Users/kunalmaji/Desktop/Code/cs/CSharpApp/src/CalculatorApp/obj/Release/net9.0/CalculatorApp.sourcelink.json
+/Users/kunalmaji/Desktop/Code/cs/CSharpApp/src/CalculatorApp/obj/Release/net9.0/CalculatorApp.dll
+/Users/kunalmaji/Desktop/Code/cs/CSharpApp/src/CalculatorApp/obj/Release/net9.0/refint/CalculatorApp.dll
+/Users/kunalmaji/Desktop/Code/cs/CSharpApp/src/CalculatorApp/obj/Release/net9.0/CalculatorApp.pdb
+/Users/kunalmaji/Desktop/Code/cs/CSharpApp/src/CalculatorApp/obj/Release/net9.0/CalculatorApp.genruntimeconfig.cache
+/Users/kunalmaji/Desktop/Code/cs/CSharpApp/src/CalculatorApp/obj/Release/net9.0/ref/CalculatorApp.dll

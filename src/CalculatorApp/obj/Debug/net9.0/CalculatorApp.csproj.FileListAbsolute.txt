@@ -12,3 +12,4 @@
 /Users/kunalmaji/Desktop/Code/cs/CSharpApp/src/CalculatorApp/obj/Debug/net9.0/CalculatorApp.pdb
 /Users/kunalmaji/Desktop/Code/cs/CSharpApp/src/CalculatorApp/obj/Debug/net9.0/CalculatorApp.genruntimeconfig.cache
 /Users/kunalmaji/Desktop/Code/cs/CSharpApp/src/CalculatorApp/obj/Debug/net9.0/ref/CalculatorApp.dll
+/Users/kunalmaji/Desktop/Code/cs/CSharpApp/src/CalculatorApp/obj/Debug/net9.0/CalculatorApp.sourcelink.json
