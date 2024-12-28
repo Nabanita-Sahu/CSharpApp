@@ -1,40 +1,29 @@
-name: Build and Test C# Solution
+name: .NET Build and Test
 
 on:
   push:
     branches:
       - main
-  pull_request:
-    branches:
-      - main
 
 jobs:
-  build-and-test:
-    runs-on: windows-latest
-
+  build:
+    runs-on: ubuntu-latest
+    
     steps:
-    # Step 1: Checkout repository
-    - name: Checkout code
-      uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v2
+      
+      - name: Set up .NET SDK
+        uses: actions/setup-dotnet@v2
+        with:
+          dotnet-version: '9.0.x'
+      
+      - name: Restore dependencies
+        run: dotnet restore CalculatorApp.sln
 
-    # Step 2: Setup .NET
-    - name: Setup .NET
-      uses: actions/setup-dotnet@v3
-      with:
-        dotnet-version: '7.0.x'
+      - name: Build
+        run: dotnet build CalculatorApp.sln --configuration Release --no-restore
 
-    # Step 3: Restore dependencies
-    - name: Restore dependencies
-      run: dotnet restore CalculatorApp.sln
-
-    # Step 4: Clean the solution
-    - name: Clean the solution
-      run: dotnet clean CalculatorApp.sln
-
-    # Step 5: Build the solution
-    - name: Build the solution
-      run: dotnet build CalculatorApp.sln --configuration Release --no-restore
-
-    # Step 6: Run tests
-    - name: Run tests
-      run: dotnet test CalculatorApp.sln --no-build --verbosity diagnostic
+      - name: Run tests
+        run: dotnet test CalculatorApp.sln --configuration Release --no-build
+        
